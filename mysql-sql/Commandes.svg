@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="752" height="120" view_box="0 0 752 120"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Mon, 29 Jun 2020 01:29:11</desc>
+
+<rect id="frame" x="0" y="0" width="752" height="120" fill="#f5f5f5" stroke="none" stroke-width="0"/>
+
+<!-- Association passer -->
+<line x1="37" y1="60" x2="151" y2="60" stroke="#bf812d" stroke-width="2"/>
+<text x="70" y="77.0" fill="#01665e" font-family="Verdana" font-size="12">0,N</text>
+<line x1="282" y1="60" x2="151" y2="60" stroke="#bf812d" stroke-width="2"/>
+<text x="211" y="77.0" fill="#01665e" font-family="Verdana" font-size="12">1,1</text>
+<g id="association-passer">
+	<path d="M 191 35 a 14 14 90 0 1 14 14 V 60 h -108 V 49 a 14 14 90 0 1 14 -14" fill="#dfc27d" stroke="#dfc27d" stroke-width="0"/>
+	<path d="M 205 60.0 v 11 a 14 14 90 0 1 -14 14 H 111 a 14 14 90 0 1 -14 -14 V 60.0 H 108" fill="#f6e8c3" stroke="#f6e8c3" stroke-width="0"/>
+	<rect x="97" y="35" width="108" height="50" fill="none" rx="14" stroke="#bf812d" stroke-width="2"/>
+	<line x1="97" y1="60" x2="205" y2="60" stroke="#bf812d" stroke-width="1"/>
+	<text x="131" y="52.7" fill="#000000" font-family="Verdana" font-size="12">passer</text>
+	<text x="104" y="77.8" fill="#000000" font-family="Verdana" font-size="12">datecommande</text>
+</g>
+
+<!-- Association contenir -->
+<line x1="282" y1="60" x2="392" y2="60" stroke="#bf812d" stroke-width="2"/>
+<text x="332" y="77.0" fill="#01665e" font-family="Verdana" font-size="12">1,N</text>
+<line x1="489" y1="60" x2="392" y2="60" stroke="#bf812d" stroke-width="2"/>
+<text x="430" y="77.0" fill="#01665e" font-family="Verdana" font-size="12">0,N</text>
+<g id="association-contenir">
+	<path d="M 411 35 a 14 14 90 0 1 14 14 V 60 h -66 V 49 a 14 14 90 0 1 14 -14" fill="#dfc27d" stroke="#dfc27d" stroke-width="0"/>
+	<path d="M 425 60.0 v 11 a 14 14 90 0 1 -14 14 H 373 a 14 14 90 0 1 -14 -14 V 60.0 H 66" fill="#f6e8c3" stroke="#f6e8c3" stroke-width="0"/>
+	<rect x="359" y="35" width="66" height="50" fill="none" rx="14" stroke="#bf812d" stroke-width="2"/>
+	<line x1="359" y1="60" x2="425" y2="60" stroke="#bf812d" stroke-width="1"/>
+	<text x="367" y="52.7" fill="#000000" font-family="Verdana" font-size="12">contenir</text>
+	<text x="366" y="77.8" fill="#000000" font-family="Verdana" font-size="12">quantite</text>
+</g>
+
+<!-- Association appartenir -->
+<line x1="489" y1="60" x2="592" y2="60" stroke="#bf812d" stroke-width="2"/>
+<text x="526" y="77.0" fill="#01665e" font-family="Verdana" font-size="12">0,1</text>
+<line x1="703" y1="60" x2="592" y2="60" stroke="#bf812d" stroke-width="2"/>
+<text x="636" y="77.0" fill="#01665e" font-family="Verdana" font-size="12">0,N</text>
+<g id="association-appartenir">
+	<path d="M 617 35 a 14 14 90 0 1 14 14 V 60 h -78 V 49 a 14 14 90 0 1 14 -14" fill="#dfc27d" stroke="#dfc27d" stroke-width="0"/>
+	<path d="M 631 60.0 v 11 a 14 14 90 0 1 -14 14 H 567 a 14 14 90 0 1 -14 -14 V 60.0 H 78" fill="#f6e8c3" stroke="#f6e8c3" stroke-width="0"/>
+	<rect x="553" y="35" width="78" height="50" fill="none" rx="14" stroke="#bf812d" stroke-width="2"/>
+	<line x1="553" y1="60" x2="631" y2="60" stroke="#bf812d" stroke-width="1"/>
+	<text x="560" y="52.7" fill="#000000" font-family="Verdana" font-size="12">appartenir</text>
+</g>
+
+<!-- Entity Produit -->
+<g id="entity-Produit">
+	<g id="frame-Produit">
+		<rect x="457" y="9" width="64" height="25" fill="#80cdc1" stroke="#80cdc1" stroke-width="0"/>
+		<rect x="457" y="34.0" width="64" height="77" fill="#c7eae5" stroke="#c7eae5" stroke-width="0"/>
+		<rect x="457" y="9" width="64" height="102" fill="none" stroke="#35978f" stroke-width="2"/>
+		<line x1="457" y1="34" x2="521" y2="34" stroke="#35978f" stroke-width="1"/>
+	</g>
+	<text x="467" y="26.7" fill="#000000" font-family="Verdana" font-size="12">Produit</text>
+	<text x="462" y="51.7" fill="#000000" font-family="Verdana" font-size="12">idProduit</text>
+	<line x1="462" y1="54" x2="516" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="462" y="68.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+	<text x="462" y="85.8" fill="#000000" font-family="Verdana" font-size="12">ref</text>
+	<text x="462" y="102.8" fill="#000000" font-family="Verdana" font-size="12">prix</text>
+</g>
+
+<!-- Entity categorie -->
+<g id="entity-categorie">
+	<g id="frame-categorie">
+		<rect x="663" y="26" width="80" height="25" fill="#80cdc1" stroke="#80cdc1" stroke-width="0"/>
+		<rect x="663" y="51.0" width="80" height="43" fill="#c7eae5" stroke="#c7eae5" stroke-width="0"/>
+		<rect x="663" y="26" width="80" height="68" fill="none" stroke="#35978f" stroke-width="2"/>
+		<line x1="663" y1="51" x2="743" y2="51" stroke="#35978f" stroke-width="1"/>
+	</g>
+	<text x="674" y="43.7" fill="#000000" font-family="Verdana" font-size="12">categorie</text>
+	<text x="668" y="68.8" fill="#000000" font-family="Verdana" font-size="12">idCategorie</text>
+	<line x1="668" y1="71" x2="738" y2="71" stroke="#000000" stroke-width="1"/>
+	<text x="668" y="85.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+</g>
+
+<!-- Entity Client -->
+<g id="entity-Client">
+	<g id="frame-Client">
+		<rect x="9" y="9" width="56" height="25" fill="#80cdc1" stroke="#80cdc1" stroke-width="0"/>
+		<rect x="9" y="34.0" width="56" height="77" fill="#c7eae5" stroke="#c7eae5" stroke-width="0"/>
+		<rect x="9" y="9" width="56" height="102" fill="none" stroke="#35978f" stroke-width="2"/>
+		<line x1="9" y1="34" x2="65" y2="34" stroke="#35978f" stroke-width="1"/>
+	</g>
+	<text x="19" y="26.7" fill="#000000" font-family="Verdana" font-size="12">Client</text>
+	<text x="14" y="51.7" fill="#000000" font-family="Verdana" font-size="12">idClient</text>
+	<line x1="14" y1="54" x2="60" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="14" y="68.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+	<text x="14" y="85.8" fill="#000000" font-family="Verdana" font-size="12">email</text>
+	<text x="14" y="102.8" fill="#000000" font-family="Verdana" font-size="12">mdp</text>
+</g>
+
+<!-- Entity Commande -->
+<g id="entity-Commande">
+	<g id="frame-Commande">
+		<rect x="237" y="26" width="90" height="25" fill="#80cdc1" stroke="#80cdc1" stroke-width="0"/>
+		<rect x="237" y="51.0" width="90" height="43" fill="#c7eae5" stroke="#c7eae5" stroke-width="0"/>
+		<rect x="237" y="26" width="90" height="68" fill="none" stroke="#35978f" stroke-width="2"/>
+		<line x1="237" y1="51" x2="327" y2="51" stroke="#35978f" stroke-width="1"/>
+	</g>
+	<text x="247" y="43.7" fill="#000000" font-family="Verdana" font-size="12">Commande</text>
+	<text x="242" y="68.8" fill="#000000" font-family="Verdana" font-size="12">idCommande</text>
+	<line x1="242" y1="71" x2="322" y2="71" stroke="#000000" stroke-width="1"/>
+	<text x="242" y="85.8" fill="#000000" font-family="Verdana" font-size="12">numero</text>
+</g>
+</svg>

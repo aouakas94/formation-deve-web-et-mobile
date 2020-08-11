@@ -1,0 +1,56 @@
+[0706/115906.017:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0706/115906.033:ERROR:exception_snapshot_win.cc(99)] thread ID 7252 not found in process
+[0706/115906.064:ERROR:minidumpwritedump_with_crashpad_info.cc(435)] Failed to call MiniDumpWriteDump: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x8007012B)
+[0706/115906.064:ERROR:minidumpwritedump_with_crashpad_info.cc(592)] Failed to write minidump file
+[0706/115906.064:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff627910000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb0b025350 of 16 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_resource_reader.cc(103)] could not read resource data entry from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL resources
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x28ff2390000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb29da0000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffaf8d70000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.58\mip_core.dll
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb29950000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ncrypt.dll
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb01d50000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\MSVCP140.dll
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb0e030000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CONCRT140.dll
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb19bc0000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb18e30000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VCRUNTIME140_1.dll
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb29e90000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\BCRYPT.DLL
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb28fc0000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DPAPI.DLL
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb29910000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\NTASN1.dll
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffaf8b00000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.064:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.58\mip_protection_sdk.dll
+[0706/115906.064:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb29340000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DNSAPI.dll
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb0cf20000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.58\mip_telemetry.dll
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb2b4e0000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffafb930000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.58\mip_ClientTelemetry.dll
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb2ac70000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ole32.dll
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb2b960000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\SHLWAPI.dll
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb15950000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WININET.dll
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb1f300000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffaf91d0000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.58\oneds.dll
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff627910000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff627910000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0706/115906.080:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0706/115906.080:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb2c710000 of 64 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)

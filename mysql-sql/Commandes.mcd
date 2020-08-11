@@ -1,0 +1,7 @@
+Client: idClient, nom, email, mdp
+passer, 0N Client ,11 Commande : datecommande
+Commande: idCommande, numero
+contenir, 1N Commande, 0N Produit :quantite
+Produit: idProduit, nom ,ref, prix
+appartenir, 01 Produit , 0N categorie
+categorie: idCategorie, nom
